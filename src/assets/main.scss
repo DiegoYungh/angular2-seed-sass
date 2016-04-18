@@ -1,5 +1,8 @@
+@import 'foundation';
 @import 'variables';
 @import 'colors';
+
+@include foundation-everything;
 
 /* Reset */
 html, body, div {

@@ -31,7 +31,9 @@
     "webdriver-start": "webdriver-manager start",
     "webdriver-update": "webdriver-manager update"
   },
-  "contributors": ["Naresh Bhatia <nareshbhatia>"],
+  "contributors": [
+    "Naresh Bhatia <nareshbhatia>"
+  ],
   "license": "MIT",
   "devDependencies": {
     "async": "^1.4.2",
@@ -49,6 +51,7 @@
     "express": "~4.13.1",
     "express-history-api-fallback": "^2.0.0",
     "extend": "^3.0.0",
+    "foundation-sites": "^6.2.1",
     "gulp": "^3.9.1",
     "gulp-cached": "^1.1.0",
     "gulp-concat": "^2.6.0",
